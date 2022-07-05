@@ -1,8 +1,8 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "greeting": "Hiiiiii",
+  "name": "Constant <3",
+  "greetingText": "I really like your name, but lets go with constant for now :D",
+  "wishText": "I ll love you always and forever :)",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
@@ -13,11 +13,11 @@
   "text4Adjective": "special",
   "text5Entry": "Because,",
   "text5Content": "You are Special",
-  "smiley": ":)",
+  "smiley": ":* :*",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
+  "wishHeading": "Happy Birthday Love!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ":)"
+  "outroSmiley": ":* <3"
 }
